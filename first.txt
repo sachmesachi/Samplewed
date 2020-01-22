@@ -12,6 +12,7 @@ This is from DEV
 
 DEV  has lot of files which are never visited
 
+<<<<<<< HEAD
 This is  C1
 
 this is C3
@@ -23,3 +24,14 @@ this is C10
 this is C12
 
 this is C13
+=======
+This is  C2
+
+This is C4
+
+This is C7
+
+This is C8
+
+This is C11
+>>>>>>> Issue2
